@@ -1,4 +1,4 @@
-package com.bezkoder.spring.restapi;
+package co.edu.usco.pw.spring.restapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
